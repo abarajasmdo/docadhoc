@@ -1,0 +1,29 @@
+{
+  "name": "docadhoc",
+  "version": "1.0.0",
+  "description": "Web Page for DocAdHoc",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "test": "electron develop.js"
+  },
+  "keywords": [
+    "Learning",
+    "Site",
+    "Electron"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abarajasmdo/docadhoc.git"
+  },
+  "author": "Antonio Barajas <abarajasmdo@gmail.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/abarajasmdo/docadhoc/issues"
+  },
+  "homepage": "https://github.com/abarajasmdo/docadhoc#readme",
+  "devDependencies": {
+    "electron": "^2.0.4",
+    "electron-reload": "^1.2.5"
+  }
+}
